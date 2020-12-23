@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Nguyen Viet Hoa\\PycharmProjects\\DL4NLP\\Exercise3\\model\\my_model_baseline\\my_model_baseline.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Nguyen Viet Hoa\\PycharmProjects\\DL4NLP\\Exercise3\\model\\my_model_baseline\\my_model_baseline.ckpt"
